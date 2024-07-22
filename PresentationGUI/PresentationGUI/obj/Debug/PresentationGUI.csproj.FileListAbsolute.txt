@@ -1,0 +1,32 @@
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csprojResolveAssemblyReference.cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.PresentationGUI.resources
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.Properties.Resources.resources
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.GenerateResource.Cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.exe.config
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.exe
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.exe
+D:\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.pdb
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.PresentationGUI.resources
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.exe
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.pdb
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.exe.config
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.exe
+C:\Users\Admin\Desktop\PresentationGUIWithAbstractClassAndInterface\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.pdb
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.exe.config
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.exe
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\bin\Debug\PresentationGUI.pdb
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\bin\Debug\Person.dll
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\bin\Debug\Student.dll
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.PresentationGUI.resources
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.exe
+C:\Users\Admin\Desktop\PresentationGUI\PresentationGUI\obj\Debug\PresentationGUI.pdb
